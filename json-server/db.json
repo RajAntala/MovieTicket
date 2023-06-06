@@ -1,0 +1,152 @@
+{
+  "movie": [
+    {
+      "title": "KGF",
+      "image": "Kgf-1.jpeg",
+      "type": "3D",
+      "language": "Hindi",
+      "select": "Drama",
+      "duration": "2h 36m",
+      "certificate": "cbsc",
+      "release": "2023-04-27",
+      "rating": "8",
+      "schedule": "In cinema",
+      "directore": "rajmoli",
+      "about": "rrrrrrr",
+      "genre": [
+        "Actions-",
+        "Drama-"
+      ],
+      "id": 1
+    },
+    {
+      "title": "RRR",
+      "image": "RRR-2.jpg",
+      "type": "Blu-ray",
+      "language": "English",
+      "select": "Thriller-",
+      "duration": "2h 36m",
+      "certificate": "cbsc",
+      "release": "2023-04-02",
+      "rating": "8",
+      "schedule": "In cinema",
+      "directore": "rajmoli",
+      "about": "hoii",
+      "genre": [
+        "Actions-",
+        "Thriller-"
+      ],
+      "id": 2
+    },
+    {
+      "title": "Tmkoc",
+      "image": "Tmkoc-3.jpg",
+      "type": "3D",
+      "language": "",
+      "select": "Drama-",
+      "duration": "1h 00m",
+      "certificate": "cbsc",
+      "release": "2023-04-19",
+      "rating": "7",
+      "schedule": "In cinema",
+      "directore": "King",
+      "about": "joii",
+      "genre": [
+        "Drama-"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Yash",
+      "image": "yash.jpg",
+      "type": "4K",
+      "language": "",
+      "select": "Drama-",
+      "duration": "2h 36m",
+      "certificate": "",
+      "release": "2023-04-27",
+      "rating": "9",
+      "schedule": "In cinema",
+      "directore": "King",
+      "about": "ff",
+      "genre": [
+        "Drama-"
+      ],
+      "id": 5
+    },
+    {
+      "title": "Mirzapur",
+      "image": "Mirzapur-4.jpg",
+      "type": "2D",
+      "language": "Hindi",
+      "select": "Romentic-",
+      "duration": "1h 00m",
+      "certificate": "cbsc",
+      "release": "2023-05-02",
+      "rating": "7",
+      "schedule": "Coming soon",
+      "directore": "",
+      "about": "",
+      "genre": [
+        "Drama-",
+        "Romentic-"
+      ],
+      "id": 6
+    },
+    {
+      "title": "Jonny",
+      "image": "johnny.jpg",
+      "type": "3D",
+      "language": "English",
+      "select": "Actions-",
+      "duration": "2h 36m",
+      "certificate": "cbsc",
+      "release": "2023-04-24",
+      "rating": "4",
+      "schedule": "Coming soon",
+      "directore": "KIng",
+      "about": "44",
+      "genre": [
+        "Thriller-",
+        "Actions-"
+      ],
+      "id": 7
+    },
+    {
+      "title": "Black Panther",
+      "image": "blackpanther.jpeg",
+      "type": "Blu-ray",
+      "language": "English",
+      "select": "Drama-",
+      "duration": "1h 00m",
+      "certificate": "cbsc",
+      "release": "2023-04-16",
+      "rating": "9",
+      "schedule": "Coming soon",
+      "directore": "KIng",
+      "about": "jjj",
+      "genre": [
+        "Drama-"
+      ],
+      "id": 8
+    },
+    {
+      "title": "Brahmastra",
+      "image": "Brahmastra.jpg",
+      "type": "3D",
+      "language": "Hindi",
+      "select": "Romentic-",
+      "duration": "2h 36m",
+      "certificate": "cbsc",
+      "release": "2023-02-14",
+      "rating": "9",
+      "schedule": "Coming soon",
+      "directore": "rajmoli",
+      "about": "",
+      "genre": [
+        "Romentic-"
+      ],
+      "id": 9
+    }
+  ]
+}
